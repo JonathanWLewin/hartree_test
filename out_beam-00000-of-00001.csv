@@ -1,0 +1,24 @@
+legal_entity,counter_party,tier,max(rating by counterparty),sum(value where status = ARAP),sum(value where status = ACCR)
+L1,C1,Total,3,40.0,0.0
+Total,C1,Total,3,40.0,0.0
+L2,C2,Total,3,20.0,40.0
+Total,C2,Total,3,20.0,40.0
+L1,C3,Total,6,5.0,0.0
+L3,C3,Total,6,0.0,145.0
+L2,C3,Total,6,0.0,52.0
+Total,C3,Total,6,5.0,197.0
+L1,C4,Total,6,40.0,100.0
+Total,C4,Total,6,40.0,100.0
+L2,C5,Total,6,1000.0,115.0
+Total,C5,Total,6,1000.0,115.0
+L3,C6,Total,6,145.0,60.0
+Total,C6,Total,6,145.0,60.0
+L1,Total,Total,N/A,85.0,100.0
+L2,Total,Total,N/A,1020.0,207.0
+L3,Total,Total,N/A,145.0,205.0
+Total,Total,1,N/A,40.0,0.0
+Total,Total,2,N/A,20.0,40.0
+Total,Total,3,N/A,5.0,197.0
+Total,Total,4,N/A,40.0,100.0
+Total,Total,5,N/A,1000.0,115.0
+Total,Total,6,N/A,145.0,60.0
